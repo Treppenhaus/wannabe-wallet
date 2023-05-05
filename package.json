@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.3.0"
+    "ethers": "^6.3.0",
+    "fs": "^0.0.1-security",
+    "node-cmd": "^5.0.0"
   }
 }
